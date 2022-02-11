@@ -4,3 +4,6 @@
 ## Installation
 - Clone the repository.
 - Right click on the `INF` files and choose "Install".
+
+<img src="Screenshot.png">
+
