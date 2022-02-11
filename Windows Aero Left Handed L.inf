@@ -1,0 +1,50 @@
+
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,,,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%Unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+[Scheme.Cur]
+aero_arrow_l.cur
+aero_busy_l.ani
+aero_cross.cur
+aero_ew_l.cur
+aero_helpsel_l.cur
+aero_link_l.cur
+aero_move_l.cur
+aero_nesw_l.cur
+aero_ns_l.cur
+aero_nwse_l.cur
+aero_pen_l.cur
+aero_text.cur
+aero_unavail_l.cur
+aero_up_l.cur
+aero_working_l.ani
+
+[Strings]
+CUR_DIR     = "Cursors\Windows Aero\Windows Aero Left Handed"
+SCHEME_NAME = "Windows Aero Left Handed (large)"
+alternate   = "aero_up_l.cur"
+busy    = "aero_busy_l.ani"
+cross   = "aero_cross.cur"
+dgn1    = "aero_nwse_l.cur"
+dgn2    = "aero_nesw_l.cur"
+hand    = "aero_pen_l.cur"
+help    = "aero_helpsel_l.cur"
+horz    = "aero_ew_l.cur"
+link    = "aero_link_l.cur"
+move    = "aero_move_l.cur"
+pointer = "aero_arrow_l.cur"
+text    = "aero_text.cur"
+unavailiable = "aero_unavail_l.cur"
+vert    = "aero_ns_l.cur"
+work    = "aero_working_l.ani"
