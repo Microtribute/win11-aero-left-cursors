@@ -1,0 +1,17 @@
+aero_arrow.cur
+aero_helpsel.cur
+aero_working.ani
+aero_busy.ani
+
+
+aero_pen.cur
+aero_unavail.cur
+aero_ns.cur
+aero_ew.cur
+aero_nwse.cur
+aero_nesw.cur
+aero_move.cur
+aero_up.cur
+aero_link.cur
+aero_pin.cur
+aero_person.cur
