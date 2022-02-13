@@ -14,7 +14,7 @@
 
 ## Supported Platforms
 
-These cursor schemes can be installed on Microsoft Windows 7, 8, 10, and 11.
+These cursor schemes can be installed on Microsoft Windows 7, 8, 10, and 11. Should be working on Windows XP and Vista but haven't tested.
 
 ## Preview
 
