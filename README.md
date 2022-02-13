@@ -1,6 +1,8 @@
-# Windows 11 Aero Cursor Schemes for Left-handed People
+# Windows Aero Cursor Schemes for Left-handed People
 
-## Cursor Schemes
+## What's Included?
+
+The following cursor schemes are included in the repository:
 
 - Windows XI Aero Left Handed
 - Windows XI Aero Left Handed (Large)
