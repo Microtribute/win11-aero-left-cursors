@@ -10,12 +10,16 @@ The following cursor schemes are included in the repository:
 
 ## Installation
 
-- Clone the repository.
+- Clone the repository
 
   ```sh
   git clone git@github.com:Microtribute/win11-aero-left-cursors.git
   ```
-
+  
+  or download the latest release here.
+  
+  https://github.com/Microtribute/win11-aero-left-cursors/releases/latest
+  
 - Right click on the `INF` files and select *Install* from the context menu.
 - Open up the *Windows Control Panel* and go to the *Mouse* settings.
 - Switch to the *Pointers* tab.
