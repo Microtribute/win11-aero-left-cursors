@@ -26,9 +26,14 @@ The following cursor schemes are included in the repository:
 - Choose your favorite scheme from the **`Scheme`** dropdown.
 - Click **`OK`**.
 
+## Optional Installation
+The [AutoHotKey](https://www.autohotkey.com) script [swap_primary_button.ahk](swap_primary_button.ahk) enables you to switch the primary button and the cursor scheme as quickly as pressing `Win + F12`.
+
 ## Supported Platforms
 
 These cursor schemes can be installed on Microsoft Windows 7, 8, 10, and 11. Should be working on Windows XP and Vista but haven't been tested.
+
+> The [AutoHotKey script](swap_primary_button.ahk) was only tested on Windows 11.
 
 ## Preview
 
