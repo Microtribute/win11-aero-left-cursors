@@ -1,17 +1,32 @@
-aero_arrow.cur
-aero_helpsel.cur
-aero_working.ani
-aero_busy.ani
+# Left hand
+Scheme Name: Windows Aero
+Cursor Root: %SYSTEMROOT%
 
+# Right hand
+Scheme Name: Windows XI Aero Left Handed
+Cursor Root: %SYSTEMROOT%\Cursors\Windows XI Aero\Windows XI Aero Left Handed
 
-aero_pen.cur
-aero_unavail.cur
-aero_ns.cur
-aero_ew.cur
-aero_nwse.cur
-aero_nesw.cur
-aero_move.cur
-aero_up.cur
-aero_link.cur
-aero_pin.cur
-aero_person.cur
+# Windows Registry Configuration Path
+HKEY_CURRENT_USER\Control Panel\Cursors
+
+# Registry Keys
+-----------------------------------------
+Key             Value
+-----------------------------------------
+Arrow           aero_arrow.cur
+Help            aero_helpsel.cur
+AppStarting     aero_working.ani
+Wait            aero_busy.ani
+Crosshair       (Missing)
+IBeam           (Missing)
+NWPen           aero_pen.cur
+No              aero_unavail.cur
+SizeNS          aero_ns.cur
+SizeWE          aero_ew.cur
+SizeNWSE        aero_nwse.cur
+SizeNESW        aero_nesw.cur
+SizeAll         aero_move.cur
+UpArrow         aero_up.cur
+Hand            aero_link.cur
+Pin             aero_pin.cur
+Person          aero_person.cur
