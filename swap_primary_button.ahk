@@ -1,10 +1,4 @@
 ; ===============================================================================================================================
-; Function......: SwapMouseButton
-; DLL...........: User32.dll
-; Library.......: User32.lib
-; U/ANSI........:
-; Author........: jNizM
-; Modified......:
 ; Links.........: https://msdn.microsoft.com/en-us/library/ms646264.aspx
 ;                 https://msdn.microsoft.com/en-us/library/windows/desktop/ms646264.aspx
 ; ===============================================================================================================================
