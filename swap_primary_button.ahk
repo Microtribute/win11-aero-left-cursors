@@ -46,4 +46,3 @@ Toggle()
 
 !^+F12::
     Toggle()
-
