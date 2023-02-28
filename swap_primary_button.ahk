@@ -44,10 +44,10 @@ Toggle()
     }
 }
 
-!^+F12::
-    Toggle()
-
 ; Ensure the cursors remain unchanged from its previous state upon startup,
 ; which can be accomplished by calling the `Toggle()` function twice.
 Toggle()
 Toggle()
+
+!^+F12::
+    Toggle()
