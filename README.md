@@ -35,6 +35,10 @@ These cursor schemes can be installed on Microsoft Windows 7, 8, 10, and 11. Sho
 
 > The [AutoHotKey script](swap_primary_button.ahk) was only tested on Windows 11.
 
+## [Mouse Settings.lnk](Mouse Settings.lnk)
+
+This file directly takes you to the Mouse Settings window for you to choose the right cursor of your choice.
+
 ## Preview
 
 <img src="Screenshot.png">
